@@ -20,6 +20,7 @@ import Sidebar from './components/Sidebar.vue'
 <style>
 html, body, #app {
   height: 100%;
+  width: 100%;
   margin: 0;
   background: #f1f5f9; /* ашық сұр фон */
   font-family: 'Inter', sans-serif;
@@ -33,8 +34,8 @@ html, body, #app {
 
 /* Беттің контент бөлігі */
 .content {
-  flex: 1;
   overflow-y: auto;
+  width: 100%;
   padding: 24px;
   background: #f9fafb;
   min-width: 0;
