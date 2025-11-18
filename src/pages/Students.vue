@@ -47,7 +47,7 @@
 import { ref, onMounted } from 'vue'
 import axios from 'axios'
 
-const API = 'http://localhost:3001/students'
+const API = 'http://localhost:3000/students'
 
 const students = ref([])
 const form = ref({ name: '', phone: '', status: 'Жаңа', note: '' })

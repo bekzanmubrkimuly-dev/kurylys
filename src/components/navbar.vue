@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar">
     <div class="left">
-      <h1 class="logo">Mini-CRM</h1>
+      <a href='/'><h1 class="logo">Mini-CRM</h1></a>
     </div>
 
     <div class="right">
