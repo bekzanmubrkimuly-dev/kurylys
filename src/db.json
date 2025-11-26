@@ -13,6 +13,25 @@
       "phone": "+77051112233",
       "status": "Төледі",
       "note": "2 аптадан бері оқып жатыр"
+    },
+    {
+      "id": "2cdc",
+      "name": "Еркебұлан",
+      "phone": "87073130205",
+      "status": "Жаңа",
+      "note": "Өзі жазды"
     }
-  ]
+  ],
+  
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin123"
+    }
+  ],
+  "students": [],
+  "courses": []
+
+
 }
